@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ...
-email: dima.konovalov3424@gmail.com
+- email: dima.konovalov3424@gmail.com
 
 <!---
 QNikki/QNikki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
